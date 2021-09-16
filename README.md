@@ -1,1 +1,6 @@
-# Live_Weather_Update
+
+It's a simple app to display Live Weather Updates.
+
+The user needs to enter the name of the City they wish to get updates of. 
+
+ ![ScreenShot](cloudy.ico)
